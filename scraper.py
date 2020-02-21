@@ -1,3 +1,5 @@
+# Find text on a page with Beautiful Soup
+
 from urllib.request import urlopen   # handle server requests to url
 from bs4 import BeautifulSoup
 

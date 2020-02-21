@@ -1,4 +1,4 @@
-# Loop through a list of urls and scrape the links
+# Loop through a list of provided urls and follow them
 
 import scrapy
 

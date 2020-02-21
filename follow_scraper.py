@@ -1,3 +1,5 @@
+# Use Beautiful Soup to parse a page
+
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 

@@ -1,7 +1,9 @@
 # Beautiful Soup Web Scraper
 
 > Demonstration of using Beautiful Soup to scrape data from the web.
-
+> - Use Beautiful Soup to parse a page (scraper.py, follow-scraper.py)
+> - Use Scrapy to create a spider to follow links provided (horse.py)
+> - Use Scrapy to create a spider to extract links from a site and follow them (crawler.py)
 
 
 
