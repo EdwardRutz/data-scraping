@@ -29,8 +29,3 @@ if __name__ == '__main__':
             break
 
 
-
-# Separate external and internal links
-# Go through list of links
-# Check to see if the external link is alread listed, if not added it to list
-# Use regular expressions to work with URLs
